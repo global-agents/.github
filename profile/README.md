@@ -18,4 +18,4 @@
 
 #
 
-参阅[快速指南](https://global-agents.github.io)了解如何在不同项目中实践智能体上下文协议（`AGENTS.md`）。
+参阅[快速指南](https://global-agents.github.io)了解如何在项目中将全局指令与项目特定的覆盖规则相结合的最佳实践。
